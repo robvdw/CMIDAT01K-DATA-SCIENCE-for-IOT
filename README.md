@@ -1,0 +1,2 @@
+# DATA-SCIENCE-for-IOT-BASICS
+This course is designed to provide a basic grounding of the Internet of Things (IoT) and Artificial Intelligence (AI) prototypes, synthesized with a practical knowledge of machine learning (ML) &amp; Computer Vision (CV). The aim is to equip students with the ML &amp; CV skills to solve IoT problems. Providing them with templates and a data-toolkit (code), which can be implemented through popular single board microcontrollers (Arduino and/or Raspberry Pi).
