@@ -9,7 +9,7 @@ The aim is to equip students with the Data Science skills to adress IoT pipeline
 # Goals and scope
 The goal of this GitHub COURSE-REPOSITORY is to serve as a content source. 
 
-Prepare a (Rapid) prototype for an Internet of Things (IoT) data-pipeline scenario
-Become familiar with Data Science concepts surrounding IoT applications by building them
-Learn to design and develop simple lightweight IoTprototypes
-Learn to report on IoT prototypes & data-pipelines
+* Prepare a (Rapid) prototype for an Internet of Things (IoT) data-pipeline scenario
+* Become familiar with Data Science concepts surrounding IoT applications by building them
+* Learn to design and develop simple lightweight IoTprototypes
+* Learn to report on IoT prototypes & data-pipelines
