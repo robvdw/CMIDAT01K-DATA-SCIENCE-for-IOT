@@ -1,7 +1,8 @@
-# DATA-SCIENCE-for-IOT-BASICS
-This bachelor course is designed to provide a basic grounding of the Internet of Things (IoT).
+# Goal & Aims
+This Do-it-Yourself (DIY) course is designed to provide a basic grounding of the Internet of Things (IoT).
 
-The aim is to equip students with the Data Science skills to adress IoT pipelines. Providing them with templates and a data-toolkit (code), which can be implemented through popular single board microcontrollers (Arduino and/or Raspberry Pi).
+* The aim is to equip students with the Data Science skills to be able complete IoT pipelines. 
+* Providing students with templates and a data-toolkit (code), which can be implemented through popular single board microcontrollers (Hardware).
 
 # Required Hardware
 See: https://github.com/robvdw/CMIDAT01K-DATA-SCIENCE-for-IOT/blob/master/Required_Hardware.md
@@ -11,7 +12,7 @@ A hands-on introductory course exploring the Internet of Things form a (Human-Ce
 
 # Learning objectives
 * Prepare a (Rapid) prototype for an Internet of Things (IoT) data-pipeline scenario
-* Become familiar with Data Science concepts surrounding IoT applications by building them
+* Become familiar with Data Science concepts surrounding IoT applications
 * Learn to design and develop simple lightweight IoTprototypes
 * Learn to report on IoT prototypes & data-pipelines
 
