@@ -11,7 +11,6 @@ See: https://github.com/robvdw/CMIDAT01K-DATA-SCIENCE-for-IOT/blob/master/Requir
 A hands-on introductory course exploring the Internet of Things form a (Human-Centered) Data Science point of view.
 
 # Learning objectives
-* 
 * Become familiar with Data Science concepts surrounding IoT applications
 * Prepare a (Rapid) prototype for an Internet of Things (IoT) data-pipeline scenario's
 * Learn to design and develop simple lightweight IoT-prototypes
