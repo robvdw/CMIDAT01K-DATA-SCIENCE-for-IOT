@@ -1,7 +1,7 @@
 # Goal & Aims
 This Do-it-Yourself (DIY) course is designed to provide a basic grounding of the Internet of Things (IoT).
 
-* The aim is to equip students with the Data Science skills to be able complete basic  IoT scenariors. 
+* The aim is to equip students with the Data Science skills in order to complete basic IoT-scenario's. 
 * Providing students with templates and a data-toolkit (code), which can be implemented through popular single board microcontrollers (Hardware).
 
 # Required Hardware
