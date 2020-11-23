@@ -21,4 +21,7 @@ DSI camera poort
 * Afmetingen: 65x56x8.5mm
 * Gewicht: 29g
 
+see: https://www.raspberrypi.org/products/raspberry-pi-3-model-a-plus/
+
+
 
