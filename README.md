@@ -28,3 +28,6 @@ The content of each lesson will be amde avaiable as a PDF document via: https://
 # Grading
 This course wil be graded acoording to the rules and defintions as oulined in: https://github.com/robvdw/CMIDAT01K-DATA-SCIENCE-for-IOT/blob/master/Docs/BEOORDELINGS_MODEL_DS_for_IoT_V24_npv_2020.pdf
 
+# Data Science Beyond the IoT
+For those who want to keep up with novel delelopments within de Data Science Domain see my Medium.com blog: https://robfvdw.medium.com
+
