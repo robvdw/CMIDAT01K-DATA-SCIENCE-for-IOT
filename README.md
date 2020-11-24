@@ -22,3 +22,6 @@ A hands-on introductory course exploring the Internet of Things form a (Human-Ce
 * Documentation of the project (contributed to a personal GitHub Repository).
 * An online demo (video or IoT Platform implementation) of the completed IoT data-pipeline/project.
 
+# Grading
+This course wil be graded acoording to 
+
