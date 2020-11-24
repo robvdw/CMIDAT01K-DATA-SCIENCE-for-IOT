@@ -23,5 +23,5 @@ A hands-on introductory course exploring the Internet of Things form a (Human-Ce
 * An online demo (video or IoT Platform implementation) of the completed IoT data-pipeline/project.
 
 # Grading
-This course wil be graded acoording to 
+This course wil be graded acoording to the rules and defintions as oulined in: https://github.com/robvdw/CMIDAT01K-DATA-SCIENCE-for-IOT/blob/master/Docs/BEOORDELINGS_MODEL_DS_for_IoT_V24_npv_2020.pdf
 
