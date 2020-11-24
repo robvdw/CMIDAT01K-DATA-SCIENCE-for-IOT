@@ -16,6 +16,9 @@ A hands-on introductory course exploring the Internet of Things form a (Human-Ce
 * Learn to design and develop simple lightweight IoT-prototypes
 * Learn to report on IoT projects (inclusive prototypes + data-pipelines).
 
+# Lessons
+The content of each jkesson will be amde avaiable as a PDF document via: https://github.com/robvdw/CMIDAT01K-DATA-SCIENCE-for-IOT/tree/master/Lessons
+
 # Delivearbles
 * A working prototype that includes software (code), hardware and electronics elements.
 * Code (commented) for the application
