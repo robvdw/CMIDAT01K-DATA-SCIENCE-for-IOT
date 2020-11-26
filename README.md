@@ -2,7 +2,7 @@
 This Do-it-Yourself (DIY) course is designed to provide a basic grounding of the Internet of Things (IoT).
 
 * The aim is to equip students with the Data Science skills in order to complete basic IoT-scenario's. 
-* Providing students with templates and a data-toolkit (code), which can be implemented through popular single board microcontrollers (Hardware).
+* Providing students with templates and a data-toolkit (code), which can be implemented through popular single board microcontrollers (Arduino / Raspberry Pi).
 
 # Required Hardware
 See: https://github.com/robvdw/CMIDAT01K-DATA-SCIENCE-for-IOT/blob/master/Required_Hardware.md
