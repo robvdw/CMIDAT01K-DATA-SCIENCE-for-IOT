@@ -17,7 +17,7 @@ A hands-on introductory course exploring the Internet of Things form a (Human-Ce
 * Learn to report on IoT projects (inclusive prototypes + data-pipelines).
 
 # Lessons
-The content of each lesson will be amde avaiable as a PDF document via: https://github.com/robvdw/CMIDAT01K-DATA-SCIENCE-for-IOT/tree/master/Lessons
+The content of each lesson will become avaiable each week as a PDF document via: https://github.com/robvdw/CMIDAT01K-DATA-SCIENCE-for-IOT/tree/master/Lessons
 
 # Delivearbles
 * A working prototype that includes software (code), hardware and electronics elements.
