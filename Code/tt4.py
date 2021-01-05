@@ -9,8 +9,8 @@ lastUpdateTime = time.time() # Track the last update time
 postingInterval = 120 # Post data once every 2 minutes
 updateInterval = 15 # Update once every 15 seconds
 
-writeAPIkey = "X2O0JB02Z2LN5W8E" # Replace YOUR-CHANNEL-WRITEAPIKEY with your channel write API key
-channelID = "920549" # Replace YOUR-CHANNELID with your channel ID
+writeAPIkey = "X2O0JB02Z2LN5" # Replace YOUR-CHANNEL-WRITEAPIKEY with your channel write API key
+channelID = "920" # Replace YOUR-CHANNELID with your channel ID
 url = "https://api.thingspeak.com/channels/"+channelID+"/bulk_update.json" # ThingSpeak server settings
 messageBuffer = []
 
