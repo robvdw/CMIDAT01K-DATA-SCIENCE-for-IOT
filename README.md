@@ -9,7 +9,8 @@ See: https://github.com/robvdw/CMIDAT01K-DATA-SCIENCE-for-IOT/blob/master/Requir
 
 # Scope
 A hands-on introductory course exploring the Internet of Things form a (Human-Centered) Data Science point of view.
-Creating your own IoT data pipeline 
+
+Creating your own IoT data pipeline https://github.com/robvdw/CMIDAT01K-DATA-SCIENCE-for-IOT/blob/master/IoT-Pipelines/data_pipeline%20example01.png
 
 # Learning objectives
 * Become familiar with Data Science concepts surrounding IoT applications
