@@ -21,6 +21,17 @@ Creating your own IoT data pipeline https://github.com/robvdw/CMIDAT01K-DATA-SCI
 # Lessons
 The content of each lesson will become avaiable each week as a PDF document via: https://github.com/robvdw/CMIDAT01K-DATA-SCIENCE-for-IOT/tree/master/Lessons
 
+| lesson  | week OP3 | content
+| ------------- | ------------- | ------------- |
+Lesson 01 |  week 02	| Discovering the IoT Data Science Domain
+Lesson 02 |  week 03 	| Defining project requirements 
+Lesson 03 |  week 04 	| Learn to write code
+Lesson 04 |  week 05 	| Data Science: How to start your own IoT Project
+Lesson 05 |  week 06 	| IoT Platforms & MiddleWare
+Lesson 06 |  week 07 	| Core IoT Concepts + setting-up your IoT-device
+Lesson 07 |  week 08 	| Explaining Grading + Summary + Q & A
+
+
 # Delivearbles
 * A working prototype that includes software (code), hardware and electronics elements.
 * Code (commented) for the application
