@@ -30,6 +30,7 @@ Lesson 04 |  week 05 	| Data Science: How to start your own IoT Project
 Lesson 05 |  week 06 	| IoT Platforms & MiddleWare
 Lesson 06 |  week 07 	| Core IoT Concepts + setting-up your IoT-device
 Lesson 07 |  week 08 	| Explaining Grading + Summary + Q & A
+          |  week 09/10 	| Self study & Project Completion
 
 
 # Delivearbles
