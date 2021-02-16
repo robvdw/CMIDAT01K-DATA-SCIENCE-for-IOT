@@ -33,11 +33,12 @@ Lesson 07 |  week 08 	| Explaining Grading + Summary + Q & A
 --------- |  week 09/10 	| Self study & Project Completion
 
 
-# Delivearbles
+# Delivearbles & Deadline
 * A working prototype that includes software (code), hardware and electronics elements.
 * Code (commented) for the application
 * Documentation of the project (contributed to a personal GitHub Repository).
 * An online demo (video or IoT Platform implementation) of the completed IoT data-pipeline/project.
+__DEADLINE ===> dinsdag 27 april 2021 <====__
 
 # Grading
 This course wil be graded acoording to the rules and defintions as oulined in: https://github.com/robvdw/CMIDAT01K-DATA-SCIENCE-for-IOT/blob/master/Docs/BEOORDELINGS_MODEL_DS_for_IoT_V24_npv_2020.pdf
