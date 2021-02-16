@@ -38,6 +38,7 @@ Lesson 07 |  week 08 	| Explaining Grading + Summary + Q & A
 * Code (commented) for the application
 * Documentation of the project (contributed to a personal GitHub Repository).
 * An online demo (video or IoT Platform implementation) of the completed IoT data-pipeline/project.
+
 __DEADLINE ===> dinsdag 27 april 2021 <====__
 
 # Grading
