@@ -10,7 +10,9 @@ See: https://github.com/robvdw/CMIDAT01K-DATA-SCIENCE-for-IOT/blob/master/Requir
 # Scope
 A hands-on introductory course exploring the Internet of Things form a (Human-Centered) Data Science point of view.
 
-Creating your own IoT data pipeline https://github.com/robvdw/CMIDAT01K-DATA-SCIENCE-for-IOT/blob/master/IoT-Pipelines/data_pipeline%20example01.png
+Creating your own IoT data pipeline 
+
+https://github.com/robvdw/CMIDAT01K-DATA-SCIENCE-for-IOT/blob/master/IoT-Pipelines/data_pipeline%20example01.png
 
 # Learning objectives
 * Become familiar with Data Science concepts surrounding IoT applications
@@ -19,9 +21,12 @@ Creating your own IoT data pipeline https://github.com/robvdw/CMIDAT01K-DATA-SCI
 * Learn to report on IoT projects (inclusive prototypes + data-pipelines).
 
 # Lessons
-The content of each lesson will become avaiable each week as a PDF document via: https://github.com/robvdw/CMIDAT01K-DATA-SCIENCE-for-IOT/tree/master/Lessons
+The content of each lesson will become avaiable each week as a PDF document via: 
+
+https://github.com/robvdw/CMIDAT01K-DATA-SCIENCE-for-IOT/tree/master/Lessons
 
 Locatie: Wijnhaven 103/105 lokaal:WD 00.034
+
 START dinsdag 23 november 2021
 
 | lesson  | week OP2 | content
