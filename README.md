@@ -21,9 +21,12 @@ Creating your own IoT data pipeline https://github.com/robvdw/CMIDAT01K-DATA-SCI
 # Lessons
 The content of each lesson will become avaiable each week as a PDF document via: https://github.com/robvdw/CMIDAT01K-DATA-SCIENCE-for-IOT/tree/master/Lessons
 
+Locatie: Wijnhaven 103/105 lokaal:WD 00.034
+START dinsdag 23 november 2021
+
 | lesson  | week OP2 | content
 | ------------- | ------------- | ------------- |
-Lesson 01 |  week 02	| Discovering the IoT Data Science Domain
+Lesson 01 |  week 02	| Discovering the IoT Data Science Domain 
 Lesson 02 |  week 03 	| Defining project requirements 
 Lesson 03 |  week 04 	| Learn to write code
 Lesson 04 |  week 05 	| Data Science: How to start your own IoT Project
@@ -39,7 +42,7 @@ Lesson 07 |  week 08 	| Explaining Grading + Summary + Q & A
 * Documentation of the project (contributed to a personal GitHub Repository).
 * An online demo (video or IoT Platform implementation) of the completed IoT data-pipeline/project.
 
-__DEADLINE ===> week 10 OP02 202-2021 <====__
+__DEADLINE ===> week 10 OP02 collegejaar 2020-2021 <====__
 
 # Grading
 This course wil be graded acoording to the rules and defintions as oulined in: 
