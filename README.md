@@ -43,6 +43,7 @@ __DEADLINE ===> week 10 OP02 202-2021 <====__
 
 # Grading
 This course wil be graded acoording to the rules and defintions as oulined in: 
+
 https://github.com/robvdw/CMIDAT01K-DATA-SCIENCE-for-IOT/blob/master/Docs/BEOORDELINGS_MODEL_DS_for_IoT_V2021.pdf
 
 # Data Science Beyond the IoT
