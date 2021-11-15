@@ -42,7 +42,7 @@ Lesson 07 |  week 08 	| Explaining Grading + Summary + Q & A
 __DEADLINE ===> week 10 OP02 202-2021 <====__
 
 # Grading
-This course wil be graded acoording to the rules and defintions as oulined in: 
+This course wil be graded acoording to the rules and defintions as oulined in: https://github.com/robvdw/CMIDAT01K-DATA-SCIENCE-for-IOT/blob/master/BEOORDELINGS_MODEL_DS_for_IoT_V24_npv_2020.pdf
 
 # Data Science Beyond the IoT
 For those who want to keep up with novel delelopments within the Data Science domain see my Medium.com Blog: https://robfvdw.medium.com
