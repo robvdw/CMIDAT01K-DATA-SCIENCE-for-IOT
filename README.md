@@ -21,7 +21,7 @@ https://github.com/robvdw/CMIDAT01K-DATA-SCIENCE-for-IOT/blob/master/IoT-Pipelin
 * Learn to report on IoT projects (inclusive prototypes + data-pipelines).
 
 # Lessons
-The content of each lesson will become avaiable each week as a PDF document via: 
+The content of each lesson will become available each week as a PDF document via: 
 
 https://github.com/robvdw/CMIDAT01K-DATA-SCIENCE-for-IOT/tree/master/Lessons
 
