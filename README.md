@@ -50,7 +50,7 @@ Lesson 07 |  week 07 	| Explaining Grading + Summary + Q & A
 __DEADLINE ===> week 10 OP03 collegejaar 2021-2022 <====__
 
 # Grading
-This course wil be graded acoording to the rules and defintions as oulined in: 
+This course wil be graded according to the rules and defintions as oulined in: 
 
 https://github.com/robvdw/CMIDAT01K-DATA-SCIENCE-for-IOT/blob/master/Docs/BEOORDELINGS_MODEL_DS_for_IoT_V2021.pdf
 
