@@ -20,6 +20,15 @@ https://github.com/robvdw/CMIDAT01K-DATA-SCIENCE-for-IOT/blob/master/IoT-Pipelin
 * Learn to design and develop simple lightweight IoT-prototypes
 * Learn to report on IoT projects (inclusive prototypes + data-pipelines).
 
+<img align="right" width="200" height="250" src="https://media.s-bol.com/YynkngQW6JV2/550x678.jpg">
+
+
+
+>This course teaches you the basics of electronics and
+GPIO interfacing with Python. You will build and experiment with simple electronic
+circuits that are controlled using Python, and combine this learning to build a simple yet
+complete internet-controllable IoT application with aid of Data Science concepts and IoT middle-ware such as Thingspeak and dweet.io.
+
 # Lessons
 The content of each lesson will become available each week as a PDF document via: 
 
