@@ -27,7 +27,7 @@ https://github.com/robvdw/CMIDAT01K-DATA-SCIENCE-for-IOT/tree/master/Lessons
 
 Locatie: Wijnhaven 103/105   lokaal:WD 00.034
 
-START dinsdag 23 november 2021
+START dinsdag 22 november 2022
 
 | lesson  | week OP3 | content
 | ------------- | ------------- | ------------- |
