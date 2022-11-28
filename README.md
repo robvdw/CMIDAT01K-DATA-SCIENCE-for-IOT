@@ -41,12 +41,12 @@ START dinsdag 22 november 2022
 | lesson  | week OP3 | content
 | ------------- | ------------- | ------------- |
 Lesson 01 |  week 02	| Discovering the IoT Data Science Domain 
-Lesson 02 |  week 03 	| Defining project requirements 
-Lesson 03 |  week 04 	| Learn to write code
-Lesson 04 |  week 05 	| Data Science: How to start your own IoT Project
-Lesson 05 |  week 06 	| IoT Platforms & MiddleWare
-Lesson 06 |  week 07 	| Core IoT Concepts + setting-up your IoT-device
-Lesson 07 |  week 07 	| Explaining Grading + Summary + Q & A
+Lesson 02 |  week 04 	| Defining project requirements 
+Lesson 03 |  week 05 	| Learn to write code
+Lesson 04 |  week 06 	| Data Science: How to start your own IoT Project
+Lesson 05 |  week 07 	| IoT Platforms & MiddleWare
+Lesson 06 |  week 08 	| Core IoT Concepts + setting-up your IoT-device
+Lesson 07 |  week 09 	| Explaining Grading + Summary + Q & A
 --------- |  week 08/09 	| Self study & Project Completion
 
 
@@ -56,7 +56,7 @@ Lesson 07 |  week 07 	| Explaining Grading + Summary + Q & A
 * Documentation of the project (contributed to a personal GitHub Repository).
 * An online demo (video or IoT Platform implementation) of the completed IoT data-pipeline/project.
 
-__DEADLINE ===> week 10 OP03 collegejaar 2022-2023 <====__
+__DEADLINE ===> week 10 OP02 collegejaar 2022-2023 <====__
 
 # Grading
 This course wil be graded according to the rules and defintions as oulined in: 
