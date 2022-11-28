@@ -49,7 +49,6 @@ Lesson 06 |  week 08 	| Core IoT Concepts + setting-up your IoT-device
 Lesson 07 |  week 09 	| Explaining Grading + Summary + Q & A
 --------- |  week 08/09 	| Self study & Project Completion
 
-
 # Delivearbles & Deadline
 * A working prototype that includes software (code), hardware and electronics elements.
 * Code (commented) for the application
