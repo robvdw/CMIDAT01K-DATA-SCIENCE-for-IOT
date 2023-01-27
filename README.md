@@ -3,6 +3,8 @@ This Do-it-Yourself (DIY) course is designed to provide a basic grounding of the
 
 * The aim is to equip students with the Data Science skills in order to complete basic IoT-scenario's. 
 * Providing students with templates and a data-toolkit (code), which can be implemented through popular single board microcontrollers (Arduino / Raspberry Pi).
+* Use of Generative AI [Gen-AI] such as Co-Pilot or ChatGPT is encouraged. It's important to make sure that other people are aware that these technologies were used. This can be done by including references or citations in the code or documentation, or by making a statement in the README file or other documentation that the project relies on these technologies. Additionally, it's also a good practice to include information about the limitations and potential biases of the technology in the documentation or code comments.
+
 
 # Required Hardware
 See: https://github.com/robvdw/CMIDAT01K-DATA-SCIENCE-for-IOT/blob/master/Required_Hardware.md
