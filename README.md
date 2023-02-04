@@ -38,7 +38,7 @@ https://github.com/robvdw/CMIDAT01K-DATA-SCIENCE-for-IOT/tree/master/Lessons
 
 Locatie: Wijnhaven 103/105   lokaal:WD 00.034
 
-START dinsdag 22 november 2022
+START dinsdag 14 februari 2023
 
 | lesson  | week OP3 | content
 | ------------- | ------------- | ------------- |
@@ -57,7 +57,7 @@ Lesson 07 |  week 09 	| Explaining Grading + Summary + Q & A
 * Documentation of the project (contributed to a personal GitHub Repository).
 * An online demo (video or IoT Platform implementation) of the completed IoT data-pipeline/project.
 
-__DEADLINE ===> week 11 OP02  (31  januari 2022) collegejaar 2022-2023 <====__
+__DEADLINE ===> week 10 OP03  (18 april 2023) collegejaar 2022-2023 <====__
 
 # Grading
 This course wil be graded according to the rules and defintions as oulined in: 
