@@ -57,7 +57,7 @@ Lesson 07 |  week 09 	| Explaining Grading + Summary + Q & A
 * Documentation of the project (contributed to a personal GitHub Repository).
 * An online demo (video or IoT Platform implementation) of the completed IoT data-pipeline/project.
 
-__DEADLINE ===> week 10 OP03  (18 april 2023) collegejaar 2022-2023 <====__
+__DEADLINE ===> week 10 OP03  (vrijdag 21 april 2023) collegejaar 2022-2023 <====__
 
 # Grading
 This course wil be graded according to the rules and defintions as oulined in: 
