@@ -64,7 +64,7 @@ zoals zal worden gecomuniceerd via E-mail en via BrightSpace
 # Grading
 This course wil be graded according to the rules and defintions as oulined in: 
 
-https://github.com/robvdw/CMIDAT01K-DATA-SCIENCE-for-IOT/blob/master/Docs/BEOORDELINGS_MODEL_DS_for_IoT_V2021.pdf
+https://github.com/robvdw/CMIDAT01K-DATA-SCIENCE-for-IOT/blob/master/Docs/BEOORDELINGS__DSforIoT_OP3_JAN_2024.pdf
 
 # Data Science Beyond the IoT
 For those who want to keep up with novel delelopments within the Data Science domain see my Medium.com Blog: https://robfvdw.medium.com
