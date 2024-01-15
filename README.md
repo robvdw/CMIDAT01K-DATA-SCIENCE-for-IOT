@@ -7,7 +7,7 @@ This Do-it-Yourself (DIY) course is designed to provide a basic grounding of the
 
 
 # Required Hardware
-See: https://github.com/robvdw/CMIDAT01K-DATA-SCIENCE-for-IOT/blob/master/Required_Hardware.md
+See: https://github.com/robvdw/CMIDAT01K-DATA-SCIENCE-for-IOT/blob/master/Required_Hardware_2021.md
 
 # Scope
 A hands-on introductory course exploring the Internet of Things form a (Human-Centered) Data Science point of view.
