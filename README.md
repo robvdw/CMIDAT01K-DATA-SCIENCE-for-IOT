@@ -57,7 +57,7 @@ Lesson 07 |  week 09 	| Explaining Grading + Summary + Q & A
 * Documentation of the project (contributed to a personal GitHub Repository).
 * An online demo (video or IoT Platform implementation) of the completed IoT data-pipeline/project.
 
-__DEADLINE ===> week 10 OP03  (donderdag 01 februarie 2024) collegejaar 2022-2023 <====__
+__DEADLINE ===> week 10 OP03  (donderdag 01 februari 2024) collegejaar 2022-2023 <====__
 OPLEVERING VIA OPDRACHTEN  in BRIGHTSPACE CMIDAT01K-2023-VT-OP2
 zoals zal worden gecomuniceerd via E-mail en via BrightSpace
 
